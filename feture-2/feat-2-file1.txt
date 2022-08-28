@@ -1,0 +1,1 @@
+This file (feat-2-file1.txt) was added in local feature2 branch.
