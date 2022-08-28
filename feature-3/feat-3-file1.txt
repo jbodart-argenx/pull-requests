@@ -1,3 +1,3 @@
 This is the first file created in feature3 branch.
 
-[more info to be added...]
+For additional information please contact jbodart-argenx.
